@@ -1,0 +1,5 @@
+/home/ryuhoseok/다운로드/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ryuhoseok/바탕화면/practice_tutorial_pendulum
+-- Found DART: /usr/local/include  found components:  utils-urdf gui dart 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ryuhoseok/바탕화면/practice_tutorial_pendulum/cmake-build-debug
